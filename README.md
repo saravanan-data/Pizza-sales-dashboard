@@ -1,2 +1,1 @@
-# Pizza-sales-dashboard
-Interactive Power BI dashboard analyzing pizza sales performance, revenue trends, customer preferences, and product insights using transactional sales data.
+A Power BI dashboard developed to analyze sales performance, revenue trends, product popularity, and customer purchasing behavior. The project leverages data modeling, DAX measures, and interactive visualizations to generate actionable business insights.
